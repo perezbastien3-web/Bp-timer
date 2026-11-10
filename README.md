@@ -3,7 +3,7 @@
 Timer de box (Tabata, EMOM, AMRAP, For Time, Chrono, séances perso) au style horloge LED, pour téléphone et tablette.
 
 ## Mettre en ligne avec GitHub Pages
-1. Crée un dépôt public (ex. `box-timer`) et dépose-y tous les fichiers de ce dossier (`index.html`, `manifest.webmanifest`, `sw.js`, dossier `icons/`).
+1. Crée un dépôt public (ex. `box-timer`) et dépose-y tous les fichiers de ce dossier (`index.html`, `manifest.webmanifest`, `sw.js`, 4 fichiers d’icônes .png).
 2. Dans le dépôt : **Settings → Pages → Build and deployment → Source : Deploy from a branch**, branche `main`, dossier `/ (root)`, puis **Save**.
 3. Après 1 à 2 minutes, l'appli est en ligne sur `https://<ton-pseudo>.github.io/box-timer/`.
 
